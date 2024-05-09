@@ -18,3 +18,18 @@ Modelo inicial sem tratamento de dados
 - Fazendo o tratamento dos valores nulos, utilizado conhecimento básico de estatistica
 - Não foi necessário excluir nenhuma coluna
 - Valores ausentes que não eram nulos, foi usado o valor -1 pra preencher
+- Foi utilizado os modelos da etapa anterior e novamente a *Regressão linear* teve o melhor resultado
+
+## 3° fase
+
+<img src = "https://github.com/Tmorenocode/HousePrices/blob/main/imagens/resultado3.jpg">
+
+- Nesta 3° fase. Foi feito uma análise explotória dos dados
+- Analisado primeiramente a correlação das colunas
+- Começamos o tratamento para transformar as principais colunas de textos para numéros
+- Foi utilizado os modelos da etapa anterior e novamente a *Regressão linear* teve o melhor resultado
+
+- ## Considerações finais
+- O 2º modelo foi o que apresentou a menor taxa de erros
+- 3° Modelo se tivesse um tratamento a mais nas colunas de texto, poderia apresentar um resultado melhor, mas iria demandar mais tempo
+- Nitido a grande diferença do 1° modelo pros outros, mostrando a importancia do tratamento de dados.
