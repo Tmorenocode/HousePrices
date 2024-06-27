@@ -15,7 +15,7 @@ Modelo inicial sem tratamento de dados
 
 ### 2° fase
 
-<img src = "[https://github.com/Tmorenocode/HousePrices/blob/main/imagens/image.png](https://github.com/Tmorenocode/HousePrices/blob/main/imagens/resultado2.jpg)">
+<img src = "https://github.com/Tmorenocode/HousePrices/blob/main/imagens/resultado2.jpg">
 
 - Na 2° fase. Foi realizado uma limpeza dos dados na base
 - Fazendo o tratamento dos valores nulos, utilizado conhecimento básico de estatistica
